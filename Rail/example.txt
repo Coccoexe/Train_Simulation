@@ -1,0 +1,772 @@
+**********************
+**  STATIONS INPUT  **
+**********************
+|
+Station at 3 km removed...distance from previous was less than 20 km 
+Station at 56 km removed...distance from previous was less than 20 km
+Station at 63 km removed...distance from previous was less than 20 km
+> Stations Input OK
+
+**********************
+**   TRAINS INPUT   **
+**********************
+|
+Modified time for station: 1 from 0 to 14.3148
+Modified time for station: 2 from 0 to 33.0556
+Modified time for station: 3 from 0 to 53.9074
+Modified time for station: 4 from 0 to 73.1667
+Modified time for station: 5 from 0 to 90.2037
+Modified time for station: 6 from 0 to 117.204
+Modified time for station: 7 from 0 to 143.093
+Modified time for station: 8 from 0 to 175.019
+Modified time for station: 9 from 0 to 208.13
+Modified time for station: 10 from 0 to 250.759
+Modified time for station: 11 from 0 to 277.574
+Modified time for station: 12 from 0 to 369.019
+constructed Slow train: 1 - dir: 0
+
+Modified time for station: 9 from 0 to 8032.13 
+Modified time for station: 10 from 0 to 8074.76
+Modified time for station: 11 from 0 to 8101.57
+Modified time for station: 12 from 0 to 8193.02
+constructed Slow train: 2 - dir: 0
+
+Modified time for station: 1 from 0 to 58.3148 
+Modified time for station: 2 from 0 to 77.0556 
+Modified time for station: 3 from 0 to 97.9074 
+Modified time for station: 4 from 0 to 117.167 
+Modified time for station: 5 from 0 to 134.204 
+Modified time for station: 6 from 0 to 161.204 
+Modified time for station: 7 from 0 to 187.093 
+Modified time for station: 8 from 0 to 219.019 
+Modified time for station: 9 from 0 to 252.13  
+Modified time for station: 10 from 0 to 294.759
+Modified time for station: 11 from 0 to 321.574
+Modified time for station: 12 from 0 to 413.019
+constructed Slow train: 3 - dir: 0
+
+Modified time for station: 1 from 45 to 104.1  
+Modified time for station: 2 from 100 to 121.5 
+Modified time for station: 3 from 130 to 138.1 
+Modified time for station: 4 from 0 to 153.5
+Modified time for station: 5 from 0 to 182.7
+Modified time for station: 6 from 0 to 205.5
+Modified time for station: 7 from 0 to 256.5
+Modified time for station: 8 from 0 to 311.9
+constructed Fast train: 4 - dir: 0
+
+Modified time for station: 1 from 0 to 215.1
+Modified time for station: 2 from 0 to 232.5
+Modified time for station: 3 from 0 to 249.1
+Modified time for station: 4 from 0 to 264.5
+Modified time for station: 5 from 0 to 293.7
+Modified time for station: 6 from 0 to 316.5
+Modified time for station: 7 from 0 to 367.5
+Modified time for station: 8 from 0 to 422.9
+constructed Fast train: 5 - dir: 0
+
+Modified time for station: 1 from 1200 to 1201.1
+Modified time for station: 2 from 0 to 1218.5
+Modified time for station: 3 from 0 to 1235.1
+Modified time for station: 4 from 0 to 1250.5
+Modified time for station: 5 from 0 to 1279.7
+Modified time for station: 6 from 0 to 1302.5
+Modified time for station: 7 from 0 to 1353.5
+Modified time for station: 8 from 0 to 1408.9
+constructed Fast train: 6 - dir: 0
+
+Modified time for station: 1 from 0 to 148.1
+Modified time for station: 2 from 0 to 165.5
+Modified time for station: 3 from 0 to 182.1
+Modified time for station: 4 from 0 to 197.5
+Modified time for station: 5 from 0 to 226.7
+Modified time for station: 6 from 0 to 249.5
+Modified time for station: 7 from 0 to 300.5
+Modified time for station: 8 from 0 to 355.9
+constructed Fast train: 7 - dir: 0
+
+Modified time for station: 1 from 0 to 88.0185
+Modified time for station: 2 from 0 to 115.574
+Modified time for station: 3 from 0 to 157.759
+Modified time for station: 4 from 0 to 190.13
+Modified time for station: 5 from 0 to 222.019
+Modified time for station: 6 from 0 to 248.093
+Modified time for station: 7 from 0 to 275.204
+Modified time for station: 8 from 0 to 292.204
+Modified time for station: 9 from 0 to 312.167
+Modified time for station: 10 from 0 to 332.907
+Modified time for station: 11 from 0 to 351.056
+Modified time for station: 12 from 0 to 369.315
+constructed Slow train: 1 - dir: 1
+
+Modified time for station: 1 from 65 to 111.019
+Modified time for station: 2 from 120 to 138.574
+Modified time for station: 3 from 180 to 180.759
+Modified time for station: 4 from 210 to 213.13
+Modified time for station: 7 from 7 to 526.204
+Modified time for station: 8 from 400 to 543.204
+Modified time for station: 9 from 334 to 563.167
+Modified time for station: 12 from 333 to 817.315
+constructed Slow train: 2 - dir: 1
+
+Modified time for station: 1 from 0 to 551.019
+Modified time for station: 2 from 0 to 578.574
+Modified time for station: 3 from 0 to 620.759
+Modified time for station: 4 from 0 to 653.13
+Modified time for station: 5 from 0 to 685.019
+Modified time for station: 6 from 0 to 711.093
+Modified time for station: 7 from 0 to 738.204
+Modified time for station: 8 from 0 to 755.204
+Modified time for station: 9 from 0 to 775.167
+Modified time for station: 10 from 0 to 795.907
+Modified time for station: 11 from 0 to 814.056
+Modified time for station: 12 from 0 to 832.315
+constructed Slow train: 3 - dir: 1
+
+Modified time for station: 1 from 0 to 138.9
+Modified time for station: 2 from 0 to 189.5
+Modified time for station: 3 from 0 to 212.5
+Modified time for station: 4 from 0 to 241.7
+Modified time for station: 5 from 0 to 256.5
+Modified time for station: 6 from 0 to 273.1
+Modified time for station: 7 from 0 to 290.5
+Modified time for station: 8 from 0 to 311.1
+constructed Fast train: 4 - dir: 1
+
+Modified time for station: 1 from 0 to 118.9
+Modified time for station: 2 from 0 to 169.5
+Modified time for station: 3 from 0 to 192.5
+Modified time for station: 4 from 0 to 221.7
+Modified time for station: 5 from 0 to 236.5
+Modified time for station: 6 from 0 to 253.1
+Modified time for station: 7 from 0 to 270.5
+Modified time for station: 8 from 0 to 291.1
+constructed Fast train: 5 - dir: 1
+
+Modified time for station: 1 from 0 to 849.9
+Modified time for station: 2 from 0 to 900.5
+Modified time for station: 3 from 0 to 923.5
+Modified time for station: 4 from 0 to 952.7
+Modified time for station: 5 from 0 to 967.5
+Modified time for station: 6 from 0 to 984.1
+Modified time for station: 7 from 0 to 1001.5
+Modified time for station: 8 from 0 to 1022.1
+constructed Fast train: 6 - dir: 1
+
+Modified time for station: 1 from 0 to 131.9
+Modified time for station: 2 from 0 to 182.5
+Modified time for station: 3 from 0 to 205.5
+Modified time for station: 4 from 0 to 234.7
+Modified time for station: 5 from 0 to 249.5
+Modified time for station: 6 from 0 to 266.1
+Modified time for station: 7 from 0 to 283.5
+Modified time for station: 8 from 0 to 304.1
+constructed Fast train: 7 - dir: 1
+
+> Trains Input OK
+
+
+     _        _   _
+ ___| |_ __ _| |_(_) ___  _ __  ___     
+/ __| __/ _` | __| |/ _ \| '_ \/ __|
+\__ \ || (_| | |_| | (_) | | | \__ \
+|___/\__\__,_|\__|_|\___/|_| |_|___/
+
+name:     Verona Porta Nuova
+local:    0
+distance: 0km
+
+name:     San Bonifacio
+local:    1
+distance: 23km
+
+name:     Vicenza
+local:    0
+distance: 48km
+
+name:     Padova
+local:    0
+distance: 78km
+
+name:     Venezia Mestre
+local:    0
+distance: 106km
+
+name:     Treviso
+local:    0
+distance: 126km
+
+name:     Portogruaro
+local:    1
+distance: 173km
+
+name:     Udine
+local:    0
+distance: 217km
+
+name:     Trieste
+local:    0
+distance: 277km
+
+name:     Fiume
+local:    1
+distance: 340km
+
+name:     Karlovac
+local:    1
+distance: 429km
+
+name:     Zagabria
+local:    0
+distance: 477km
+
+name:     Bjarne
+local:    0
+distance: 699km
+
+
+ _             _
+| |_ _ __ __ _(_)_ __  ___
+| __| '__/ _` | | '_ \/ __|
+| |_| | | (_| | | | | \__ \
+ \__|_|  \__,_|_|_| |_|___/
+
+number:    1
+max velocity:  2.7
+direction: 0
+ - station: 0 - time: 2
+ - station: 1 - time: 15
+ - station: 2 - time: 34
+ - station: 3 - time: 54
+ - station: 4 - time: 74
+ - station: 5 - time: 91
+ - station: 6 - time: 118
+ - station: 7 - time: 144
+ - station: 8 - time: 176
+ - station: 9 - time: 209
+ - station: 10 - time: 251
+ - station: 11 - time: 278
+ - station: 12 - time: 370
+
+number:    2
+max velocity:  2.7
+direction: 0
+ - station: 0 - time: 25
+ - station: 1 - time: 65
+ - station: 2 - time: 120
+ - station: 3 - time: 180
+ - station: 4 - time: 210
+ - station: 5 - time: 300
+ - station: 6 - time: 500
+ - station: 7 - time: 700
+ - station: 8 - time: 8000
+ - station: 9 - time: 8033
+ - station: 10 - time: 8075
+ - station: 11 - time: 8102
+ - station: 12 - time: 8194
+
+number:    3
+max velocity:  2.7
+direction: 0
+ - station: 0 - time: 46
+ - station: 1 - time: 59
+ - station: 2 - time: 78
+ - station: 3 - time: 98
+ - station: 4 - time: 118
+ - station: 5 - time: 135
+ - station: 6 - time: 162
+ - station: 7 - time: 188
+ - station: 8 - time: 220
+ - station: 9 - time: 253
+ - station: 10 - time: 295
+ - station: 11 - time: 322
+ - station: 12 - time: 414
+
+number:    4
+max velocity:  5
+direction: 0
+ - station: 0 - time: 89
+ - station: 1 - time: 105
+ - station: 2 - time: 122
+ - station: 3 - time: 139
+ - station: 4 - time: 154
+ - station: 5 - time: 183
+ - station: 6 - time: 206
+ - station: 7 - time: 257
+ - station: 8 - time: 312
+
+number:    5
+max velocity:  5
+direction: 0
+ - station: 0 - time: 200
+ - station: 1 - time: 216
+ - station: 2 - time: 233
+ - station: 3 - time: 250
+ - station: 4 - time: 265
+ - station: 5 - time: 294
+ - station: 6 - time: 317
+ - station: 7 - time: 368
+ - station: 8 - time: 423
+
+number:    6
+max velocity:  5
+direction: 0
+ - station: 0 - time: 1186
+ - station: 1 - time: 1202
+ - station: 2 - time: 1219
+ - station: 3 - time: 1236
+ - station: 4 - time: 1251
+ - station: 5 - time: 1280
+ - station: 6 - time: 1303
+ - station: 7 - time: 1354
+ - station: 8 - time: 1409
+
+number:    7
+max velocity:  5
+direction: 0
+ - station: 0 - time: 133
+ - station: 1 - time: 149
+ - station: 2 - time: 166
+ - station: 3 - time: 183
+ - station: 4 - time: 198
+ - station: 5 - time: 227
+ - station: 6 - time: 250
+ - station: 7 - time: 301
+ - station: 8 - time: 356
+
+number:    1
+max velocity:  2.7
+direction: 1
+ - station: 0 - time: 2
+ - station: 1 - time: 89
+ - station: 2 - time: 116
+ - station: 3 - time: 158
+ - station: 4 - time: 191
+ - station: 5 - time: 223
+ - station: 6 - time: 249
+ - station: 7 - time: 276
+ - station: 8 - time: 293
+ - station: 9 - time: 313
+ - station: 10 - time: 333
+ - station: 11 - time: 352
+ - station: 12 - time: 370
+
+number:    2
+max velocity:  2.7
+direction: 1
+ - station: 0 - time: 25
+ - station: 1 - time: 112
+ - station: 2 - time: 139
+ - station: 3 - time: 181
+ - station: 4 - time: 214
+ - station: 5 - time: 300
+ - station: 6 - time: 500
+ - station: 7 - time: 527
+ - station: 8 - time: 544
+ - station: 9 - time: 564
+ - station: 10 - time: 600
+ - station: 11 - time: 800
+ - station: 12 - time: 818
+
+number:    3
+max velocity:  2.7
+direction: 1
+ - station: 0 - time: 465
+ - station: 1 - time: 552
+ - station: 2 - time: 579
+ - station: 3 - time: 621
+ - station: 4 - time: 654
+ - station: 5 - time: 686
+ - station: 6 - time: 712
+ - station: 7 - time: 739
+ - station: 8 - time: 756
+ - station: 9 - time: 776
+ - station: 10 - time: 796
+ - station: 11 - time: 815
+ - station: 12 - time: 833
+
+number:    4
+max velocity:  5
+direction: 1
+ - station: 0 - time: 89
+ - station: 1 - time: 139
+ - station: 2 - time: 190
+ - station: 3 - time: 213
+ - station: 4 - time: 242
+ - station: 5 - time: 257
+ - station: 6 - time: 274
+ - station: 7 - time: 291
+ - station: 8 - time: 312
+
+number:    5
+max velocity:  5
+direction: 1
+ - station: 0 - time: 69
+ - station: 1 - time: 119
+ - station: 2 - time: 170
+ - station: 3 - time: 193
+ - station: 4 - time: 222
+ - station: 5 - time: 237
+ - station: 6 - time: 254
+ - station: 7 - time: 271
+ - station: 8 - time: 292
+
+number:    6
+max velocity:  5
+direction: 1
+ - station: 0 - time: 800
+ - station: 1 - time: 850
+ - station: 2 - time: 901
+ - station: 3 - time: 924
+ - station: 4 - time: 953
+ - station: 5 - time: 968
+ - station: 6 - time: 985
+ - station: 7 - time: 1002
+ - station: 8 - time: 1023
+
+number:    7
+max velocity:  5
+direction: 1
+ - station: 0 - time: 82
+ - station: 1 - time: 132
+ - station: 2 - time: 183
+ - station: 3 - time: 206
+ - station: 4 - time: 235
+ - station: 5 - time: 250
+ - station: 6 - time: 267
+ - station: 7 - time: 284
+ - station: 8 - time: 305
+
+
+     _                 _       _   _
+ ___(_)_ __ ___  _   _| | __ _| |_(_) ___  _ __
+/ __| | '_ ` _ \| | | | |/ _` | __| |/ _ \| '_ \  
+\__ \ | | | | | | |_| | | (_| | |_| | (_) | | | |
+|___/_|_| |_| |_|\__,_|_|\__,_|\__|_|\___/|_| |_|
+
+Train: 1 - Departure: 2 - Delay: 0
+Train: 1 - Stopping in San Bonifacio - Arrived: 15 - Delay: 0
+Train: 1 - departing from San Bonifacio at minute 20
+Train: 2 - Departure: 25 - Delay: 0
+Train: 1 - Stopping in Vicenza - Arrived: 33 - Delay: 0
+Train: 1 - departing from Vicenza at minute 38
+Train: 2 - Stopping in San Bonifacio - Arrived: 39 - Delay: 0
+Train: 2 - departing from San Bonifacio at minute 44
+Train: 3 - Departure: 46 - Delay: 0
+Train: 1 - Stopping in Padova - Arrived: 52 - Delay: 0
+Train: 1 - departing from Padova at minute 57
+Train: 2 - Stopping in Vicenza - Arrived: 58 - Delay: 0
+Train: 3 - Stopping in San Bonifacio - Arrived: 60 - Delay: 0
+Train: 2 - departing from Vicenza at minute 63
+Train: 3 - departing from San Bonifacio at minute 65
+Train: 1 - Stopping in Venezia Mestre - Arrived: 71 - Delay: 0
+Train: 1 - departing from Venezia Mestre at minute 76
+Train: 2 - Stopping in Padova - Arrived: 78 - Delay: 0
+Train: 3 - Stopping in Vicenza - Arrived: 79 - Delay: 0
+Train: 2 - departing from Padova at minute 83
+Train: 3 - departing from Vicenza at minute 84
+Train: 1 - Stopping in Treviso - Arrived: 87 - Delay: 0
+Train: 4 - Departure: 89 - Delay: 0
+Train: 1 - departing from Treviso at minute 92
+Train: 2 - Stopping in Venezia Mestre - Arrived: 98 - Delay: 0
+Train: 3 - Stopping in Padova - Arrived: 99 - Delay: 0
+Train: 4 - Transit in San Bonifacio
+Train: 4 - Stopping in Vicenza - Arrived: 110 - Delay: 0
+Train: 3 - departing from Padova at minute 110
+Train: 1 - Stopping in Portogruaro - Arrived: 113 - Delay: 0
+Train: 2 - departing from Venezia Mestre at minute 113
+Train: 4 - departing from Vicenza at minute 115
+Train: 1 - departing from Portogruaro at minute 118
+Train: 2 - Stopping in Treviso - Arrived: 124 - Delay: 10
+Train: 3 - Stopping in Venezia Mestre - Arrived: 126 - Delay: 6
+Train: 4 - Stopping in Padova - Arrived: 128 - Delay: 0
+Train: 2 - departing from Treviso at minute 129
+Train: 3 - departing from Venezia Mestre at minute 131
+Train: 4 - departing from Padova at minute 133
+Train: 7 - Departure: 133 - Delay: 0
+Train: 1 - Stopping in Udine - Arrived: 138 - Delay: 0
+Train: 3 - Stopping in Treviso - Arrived: 142 - Delay: 6
+Train: 7 - Transit in San Bonifacio
+Train: 1 - departing from Udine at minute 143
+Train: 4 - Stopping in Venezia Mestre - Arrived: 144 - Delay: 0
+Train: 2 - Stopping in Portogruaro - Arrived: 151 - Delay: 10
+Train: 7 - Stopping in Vicenza - Arrived: 155 - Delay: 0
+Train: 4 - departing from Venezia Mestre at minute 155
+Train: 7 - departing from Vicenza at minute 160
+Train: 4 - Stopping in Treviso - Arrived: 165 - Delay: 6
+Train: 1 - Stopping in Trieste - Arrived: 169 - Delay: 0
+Train: 2 - departing from Portogruaro at minute 169
+Train: 7 - Stopping in Padova - Arrived: 174 - Delay: 0
+Train: 4 - departing from Treviso at minute 174
+Train: 1 - departing from Trieste at minute 174
+Train: 7 - departing from Padova at minute 179
+Train: 4 - Transit in Portogruaro
+Train: 2 - Stopping in Udine - Arrived: 189 - Delay: 23
+Train: 7 - Stopping in Venezia Mestre - Arrived: 189 - Delay: 0
+Train: 3 - departing from Treviso at minute 189
+Train: 7 - departing from Venezia Mestre at minute 194
+Train: 5 - Departure: 200 - Delay: 0
+Train: 1 - Stopping in Fiume - Arrived: 201 - Delay: 0
+Train: 2 - departing from Udine at minute 201
+Train: 7 - Stopping in Treviso - Arrived: 204 - Delay: 0
+Train: 1 - departing from Fiume at minute 206
+Train: 4 - Stopping in Udine - Arrived: 209 - Delay: 6
+Train: 3 - Stopping in Portogruaro - Arrived: 211 - Delay: 48
+Train: 5 - Transit in San Bonifacio
+Train: 5 - Stopping in Vicenza - Arrived: 223 - Delay: 0
+Train: 7 - departing from Treviso at minute 223
+Train: 2 - Stopping in Trieste - Arrived: 227 - Delay: 30
+Train: 5 - departing from Vicenza at minute 228
+Train: 7 - Transit in Portogruaro
+Train: 5 - Stopping in Padova - Arrived: 240 - Delay: 0
+Train: 3 - departing from Portogruaro at minute 242
+Train: 1 - Stopping in Karlovac - Arrived: 243 - Delay: 0
+Train: 4 - departing from Udine at minute 243
+Train: 2 - departing from Trieste at minute 243
+Train: 5 - departing from Padova at minute 245
+Train: 1 - departing from Karlovac at minute 248
+Train: 7 - Stopping in Udine - Arrived: 251 - Delay: 14
+Train: 5 - Stopping in Venezia Mestre - Arrived: 256 - Delay: 0
+Train: 7 - departing from Udine at minute 256
+Train: 5 - departing from Venezia Mestre at minute 261
+Train: 3 - Stopping in Udine - Arrived: 263 - Delay: 74
+Train: 4 - Stopping in Trieste - Arrived: 268 - Delay: 35
+Train: 1 - Stopping in Zagabria - Arrived: 270 - Delay: 0
+Train: 2 - Stopping in Fiume - Arrived: 271 - Delay: 41
+Train: 5 - Stopping in Treviso - Arrived: 271 - Delay: 0
+Train: 3 - departing from Udine at minute 271
+Train: 4 - departing from Trieste at minute 273
+Train: 1 - departing from Zagabria at minute 275
+Train: 5 - departing from Treviso at minute 276
+Train: 7 - Stopping in Trieste - Arrived: 279 - Delay: 14
+Train: 7 - departing from Trieste at minute 284
+Train: 5 - Transit in Portogruaro
+Train: 3 - Stopping in Trieste - Arrived: 297 - Delay: 77
+Train: 4 - Transit in Fiume
+Train: 7 - Transit in Fiume
+Train: 5 - Stopping in Udine - Arrived: 304 - Delay: 0
+Train: 3 - departing from Trieste at minute 304
+Train: 5 - departing from Udine at minute 309
+Train: 2 - departing from Fiume at minute 310
+Train: 5 - Stopping in Trieste - Arrived: 327 - Delay: 0
+Train: 4 - Transit in Karlovac
+Train: 3 - Stopping in Fiume - Arrived: 331 - Delay: 79
+Train: 5 - departing from Trieste at minute 332
+Train: 7 - Transit in Karlovac
+Train: 2 - Stopping in Karlovac - Arrived: 347 - Delay: 75
+Train: 5 - Transit in Fiume
+Train: 4 - Stopping in Zagabria - Arrived: 351 - Delay: 35
+Train: 3 - departing from Fiume at minute 354
+Train: 7 - Stopping in Zagabria - Arrived: 355 - Delay: 14
+Train: 1 - Stopping in Bjarne - Arrived: 360 - Delay: 0
+Train: 2 - departing from Karlovac at minute 360
+Train: 4 - departing from Zagabria at minute 360
+Train: 7 - departing from Zagabria at minute 361
+Train: 1 - Bye, Have a Great Time!
+Train: 5 - Transit in Karlovac
+Train: 2 - Stopping in Zagabria - Arrived: 382 - Delay: 83
+Train: 2 - departing from Zagabria at minute 387
+Train: 5 - Stopping in Zagabria - Arrived: 390 - Delay: 0
+Train: 3 - Stopping in Karlovac - Arrived: 392 - Delay: 97
+Train: 5 - departing from Zagabria at minute 395
+Train: 3 - departing from Karlovac at minute 397
+Train: 3 - Stopping in Zagabria - Arrived: 419 - Delay: 97
+Train: 3 - departing from Zagabria at minute 424
+Train: 4 - Stopping in Bjarne - Arrived: 446 - Delay: 35
+Train: 7 - Stopping in Bjarne - Arrived: 451 - Delay: 15
+Train: 4 - Bye, Have a Great Time!
+Train: 5 - Stopping in Bjarne - Arrived: 456 - Delay: 0
+Train: 7 - Bye, Have a Great Time!
+Train: 5 - Bye, Have a Great Time!
+Train: 2 - Stopping in Bjarne - Arrived: 472 - Delay: 83
+Train: 2 - Bye, Have a Great Time!
+Train: 3 - Stopping in Bjarne - Arrived: 511 - Delay: 97
+Train: 3 - Bye, Have a Great Time!
+Train: 6 - Departure: 1186 - Delay: 0
+Train: 6 - Transit in San Bonifacio
+Train: 6 - Stopping in Vicenza - Arrived: 1206 - Delay: 0
+Train: 6 - departing from Vicenza at minute 1211
+Train: 6 - Stopping in Padova - Arrived: 1223 - Delay: 0
+Train: 6 - departing from Padova at minute 1228
+Train: 6 - Stopping in Venezia Mestre - Arrived: 1238 - Delay: 0
+Train: 6 - departing from Venezia Mestre at minute 1243
+Train: 6 - Stopping in Treviso - Arrived: 1253 - Delay: 0
+Train: 6 - departing from Treviso at minute 1258
+Train: 6 - Transit in Portogruaro
+Train: 6 - Stopping in Udine - Arrived: 1285 - Delay: 0
+Train: 6 - departing from Udine at minute 1290
+Train: 6 - Stopping in Trieste - Arrived: 1308 - Delay: 0
+Train: 6 - departing from Trieste at minute 1313
+Train: 6 - Transit in Fiume
+Train: 6 - Transit in Karlovac
+Train: 6 - Stopping in Zagabria - Arrived: 1367 - Delay: 0
+Train: 6 - departing from Zagabria at minute 1372
+Train: 6 - Stopping in Bjarne - Arrived: 1420 - Delay: 0
+Train: 6 - Bye, Have a Great Time!
+
+ ----- simulation direction 0 OK -----
+
+Train: 1 - Departure: 2 - Delay: 0
+Train: 2 - Departure: 25 - Delay: 0
+Train: 5 - Departure: 69 - Delay: 0
+Train: 7 - Departure: 82 - Delay: 0
+Train: 1 - Stopping in Zagabria - Arrived: 88 - Delay: 0
+Train: 4 - Departure: 89 - Delay: 0
+Train: 1 - departing from Zagabria at minute 93
+Train: 2 - Stopping in Zagabria - Arrived: 112 - Delay: 0
+Train: 1 - Stopping in Karlovac - Arrived: 115 - Delay: 0
+Train: 2 - departing from Zagabria at minute 117
+Train: 1 - departing from Karlovac at minute 120
+Train: 5 - Stopping in Zagabria - Arrived: 123 - Delay: 0
+Train: 7 - Stopping in Zagabria - Arrived: 132 - Delay: 0
+Train: 4 Deposit
+Train: 5 - departing from Zagabria at minute 137
+Train: 2 - Stopping in Karlovac - Arrived: 139 - Delay: 0
+Train: 4 - Stopping in Zagabria - Arrived: 139 - Delay: 0
+Train: 7 - departing from Zagabria at minute 143
+Train: 4 - departing from Zagabria at minute 148
+Train: 5 - Transit in Karlovac
+Train: 1 - Stopping in Fiume - Arrived: 157 - Delay: 0
+Train: 7 - Transit in Karlovac
+Train: 4 - Transit in Karlovac
+Train: 1 - departing from Fiume at minute 162
+Train: 2 - departing from Karlovac at minute 167
+Train: 5 - Transit in Fiume
+Train: 7 - Transit in Fiume
+Train: 1 - Stopping in Trieste - Arrived: 189 - Delay: 0
+Train: 4 - Transit in Fiume
+Train: 1 - departing from Trieste at minute 194
+Train: 2 - Stopping in Fiume - Arrived: 205 - Delay: 23
+Train: 5 - Stopping in Trieste - Arrived: 208 - Delay: 4
+Train: 2 - departing from Fiume at minute 210
+Train: 7 - Stopping in Trieste - Arrived: 212 - Delay: 2
+Train: 4 Deposit
+Train: 1 - Stopping in Udine - Arrived: 220 - Delay: 0
+Train: 5 - departing from Trieste at minute 220
+Train: 7 - departing from Trieste at minute 221
+Train: 4 - Stopping in Trieste - Arrived: 224 - Delay: 10
+Train: 1 - departing from Udine at minute 225
+Train: 4 - departing from Trieste at minute 229
+Train: 2 - Stopping in Trieste - Arrived: 238 - Delay: 23
+Train: 5 - Stopping in Udine - Arrived: 242 - Delay: 4
+Train: 2 - departing from Trieste at minute 243
+Train: 1 - Stopping in Portogruaro - Arrived: 245 - Delay: 0
+Train: 7 - Stopping in Udine - Arrived: 245 - Delay: 6
+Train: 4 Deposit
+Train: 5 - departing from Udine at minute 247
+Train: 7 - departing from Udine at minute 250
+Train: 1 - departing from Portogruaro at minute 250
+Train: 4 - Stopping in Udine - Arrived: 251 - Delay: 10
+Train: 4 - departing from Udine at minute 256
+Train: 5 - Transit in Portogruaro
+Train: 2 - Stopping in Udine - Arrived: 270 - Delay: 23
+Train: 7 - Transit in Portogruaro
+Train: 1 - Stopping in Treviso - Arrived: 271 - Delay: 0
+Train: 4 - Transit in Portogruaro
+Train: 2 - departing from Udine at minute 275
+Train: 1 - departing from Treviso at minute 276
+Train: 1 - Stopping in Venezia Mestre - Arrived: 287 - Delay: 0
+Train: 5 - Stopping in Treviso - Arrived: 287 - Delay: 4
+Train: 7 - Stopping in Treviso - Arrived: 288 - Delay: 6
+Train: 5 - departing from Treviso at minute 292
+Train: 1 - departing from Venezia Mestre at minute 292
+Train: 4 - Stopping in Treviso - Arrived: 293 - Delay: 10
+Train: 2 - Stopping in Portogruaro - Arrived: 296 - Delay: 23
+Train: 7 - departing from Treviso at minute 297
+Train: 2 - departing from Portogruaro at minute 301
+Train: 5 - Stopping in Venezia Mestre - Arrived: 302 - Delay: 4
+Train: 1 - Stopping in Padova - Arrived: 306 - Delay: 0
+Train: 4 - departing from Treviso at minute 306
+Train: 5 - departing from Venezia Mestre at minute 307
+Train: 7 - Stopping in Venezia Mestre - Arrived: 310 - Delay: 6
+Train: 1 - departing from Padova at minute 311
+Train: 7 - departing from Venezia Mestre at minute 315
+Train: 4 - Stopping in Venezia Mestre - Arrived: 317 - Delay: 18
+Train: 5 - Stopping in Padova - Arrived: 319 - Delay: 4
+Train: 2 - Stopping in Treviso - Arrived: 323 - Delay: 23
+Train: 4 - departing from Venezia Mestre at minute 324
+Train: 1 - Stopping in Vicenza - Arrived: 325 - Delay: 0
+Train: 5 - departing from Padova at minute 325
+Train: 2 - departing from Treviso at minute 328
+Train: 7 - Stopping in Padova - Arrived: 330 - Delay: 6
+Train: 1 - departing from Vicenza at minute 330
+Train: 4 - Stopping in Padova - Arrived: 335 - Delay: 20
+Train: 7 - departing from Padova at minute 335
+Train: 2 - Stopping in Venezia Mestre - Arrived: 339 - Delay: 23
+Train: 4 - departing from Padova at minute 340
+Train: 5 - Stopping in Vicenza - Arrived: 342 - Delay: 5
+Train: 1 - Stopping in San Bonifacio - Arrived: 343 - Delay: 0
+Train: 2 - departing from Venezia Mestre at minute 344
+Train: 5 - departing from Vicenza at minute 347
+Train: 1 - departing from San Bonifacio at minute 348
+Train: 7 - Stopping in Vicenza - Arrived: 352 - Delay: 6
+Train: 4 - Stopping in Vicenza - Arrived: 353 - Delay: 20
+Train: 7 - departing from Vicenza at minute 357
+Train: 2 - Stopping in Padova - Arrived: 358 - Delay: 23
+Train: 5 - Transit in San Bonifacio
+Train: 1 - Stopping in Verona Porta Nuova - Arrived: 360 - Delay: 0
+Train: 4 - departing from Vicenza at minute 362
+Train: 2 - departing from Padova at minute 363
+Train: 1 - Bye, Have a Great Time!
+Train: 7 - Transit in San Bonifacio
+Train: 5 - Stopping in Verona Porta Nuova - Arrived: 374 - Delay: 5
+Train: 4 - Transit in San Bonifacio
+Train: 2 - Stopping in Vicenza - Arrived: 377 - Delay: 23
+Train: 5 - Bye, Have a Great Time!
+Train: 7 - Stopping in Verona Porta Nuova - Arrived: 380 - Delay: 6
+Train: 2 - departing from Vicenza at minute 382
+Train: 7 - Bye, Have a Great Time!
+Train: 4 - Stopping in Verona Porta Nuova - Arrived: 388 - Delay: 24
+Train: 4 - Bye, Have a Great Time!
+Train: 2 - Stopping in San Bonifacio - Arrived: 395 - Delay: 23
+Train: 2 - departing from San Bonifacio at minute 400
+Train: 2 - Stopping in Verona Porta Nuova - Arrived: 412 - Delay: 23
+Train: 2 - Bye, Have a Great Time!
+Train: 3 - Departure: 465 - Delay: 0
+Train: 3 - Stopping in Zagabria - Arrived: 551 - Delay: 0
+Train: 3 - departing from Zagabria at minute 556
+Train: 3 - Stopping in Karlovac - Arrived: 578 - Delay: 0
+Train: 3 - departing from Karlovac at minute 583
+Train: 3 - Stopping in Fiume - Arrived: 620 - Delay: 0
+Train: 3 - departing from Fiume at minute 625
+Train: 3 - Stopping in Trieste - Arrived: 652 - Delay: 0
+Train: 3 - departing from Trieste at minute 657
+Train: 3 - Stopping in Udine - Arrived: 683 - Delay: 0
+Train: 3 - departing from Udine at minute 688
+Train: 3 - Stopping in Portogruaro - Arrived: 708 - Delay: 0
+Train: 3 - departing from Portogruaro at minute 713
+Train: 3 - Stopping in Treviso - Arrived: 734 - Delay: 0
+Train: 3 - departing from Treviso at minute 739
+Train: 3 - Stopping in Venezia Mestre - Arrived: 750 - Delay: 0
+Train: 3 - departing from Venezia Mestre at minute 755
+Train: 3 - Stopping in Padova - Arrived: 769 - Delay: 0
+Train: 3 - departing from Padova at minute 774
+Train: 3 - Stopping in Vicenza - Arrived: 788 - Delay: 0
+Train: 3 - departing from Vicenza at minute 793
+Train: 6 - Departure: 800 - Delay: 0
+Train: 3 - Stopping in San Bonifacio - Arrived: 806 - Delay: 0
+Train: 3 - departing from San Bonifacio at minute 811
+Train: 3 - Stopping in Verona Porta Nuova - Arrived: 823 - Delay: 0
+Train: 3 - Bye, Have a Great Time!
+Train: 6 - Stopping in Zagabria - Arrived: 851 - Delay: 0
+Train: 6 - departing from Zagabria at minute 856
+Train: 6 - Transit in Karlovac
+Train: 6 - Transit in Fiume
+Train: 6 - Stopping in Trieste - Arrived: 910 - Delay: 0
+Train: 6 - departing from Trieste at minute 915
+Train: 6 - Stopping in Udine - Arrived: 933 - Delay: 0
+Train: 6 - departing from Udine at minute 938
+Train: 6 - Transit in Portogruaro
+Train: 6 - Stopping in Treviso - Arrived: 965 - Delay: 0
+Train: 6 - departing from Treviso at minute 970
+Train: 6 - Stopping in Venezia Mestre - Arrived: 980 - Delay: 0
+Train: 6 - departing from Venezia Mestre at minute 985
+Train: 6 - Stopping in Padova - Arrived: 995 - Delay: 0
+Train: 6 - departing from Padova at minute 1000
+Train: 6 - Stopping in Vicenza - Arrived: 1012 - Delay: 0
+Train: 6 - departing from Vicenza at minute 1017
+Train: 6 - Transit in San Bonifacio
+Train: 6 - Stopping in Verona Porta Nuova - Arrived: 1037 - Delay: 0
+Train: 6 - Bye, Have a Great Time!
+
+ ----- simulation direction 1 OK -----

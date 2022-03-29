@@ -1,0 +1,16 @@
+Verona Porta Nuova
+Verona Porta Vescovo 1 3
+San Bonifacio 1 23
+Vicenza 0 48
+Lerino 1 56
+Grizignano di Zocco 1 63
+Padova 0 78
+Venezia Mestre 0 106
+Treviso 0 126
+Portogruaro 1 173
+Udine 0 217
+Trieste 0 277
+Fiume 1 340
+Karlovac 1 429
+Zagabria 0 477
+Bjarne 0 699

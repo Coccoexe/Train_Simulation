@@ -1,0 +1,10 @@
+venezia santa lucia
+venezia mestre 1 19
+padova 0 30
+grizignano 1 45
+lerino 1 80
+vicenza 0 120
+verona porta vescovo 1 150
+verona 0 155
+napoli 0 180
+palermo 0 800
